@@ -41,8 +41,8 @@ social:
     - https://twitter.com/DARJYO1 # change to your twitter homepage
     - https://github.com/DARJYO # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/DarJyo1
-    # - https://www.linkedin.com/in/darjyo
+    - https://www.facebook.com/DarJyo1
+    - https://www.linkedin.com/in/company/darjyo
 
 # Site Verification Settings
 webmaster_verifications:
