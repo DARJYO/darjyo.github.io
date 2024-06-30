@@ -7,4 +7,9 @@ author: darjyo
 ---
 
 
-<iframe width="360" height="440"  src="https://rss.app/embed/v1/carousel/tRA20bF3EplcYNnj" frameborder="0"></iframe>
+<rssapp-carousel id="tRA20bF3EplcYNnj">
+</rssapp-carousel>
+
+<script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async>
+  
+</script>
